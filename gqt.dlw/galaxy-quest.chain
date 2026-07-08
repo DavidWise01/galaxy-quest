@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 688
+slug  : galaxy-quest
+seal  : 1cdbf3fd4849574b699979ecacbfa2588ec6810a1e350e9d23af1031d4a78165
+prev  : 66350a329487a6b2a9d95570e232e6b80ea1c72074ba5e494d3a3e6bc049d97f
+link  : b5263bb81ab3c206fc5156412276da4f2ecb9faf97438284083950852382c71c
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
